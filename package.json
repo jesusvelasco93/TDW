@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jesusvelasco93/TDW/issues"
   },
-  "homepage": "https://github.com/jesusvelasco93/TDW#readme"
+  "homepage": "https://github.com/jesusvelasco93/TDW#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
 }
