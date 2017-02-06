@@ -1,0 +1,19 @@
+{
+  "name": "tdw",
+  "version": "1.0.0",
+  "description": "practicas tdw",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusvelasco93/TDW.git"
+  },
+  "author": "jesus velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusvelasco93/TDW/issues"
+  },
+  "homepage": "https://github.com/jesusvelasco93/TDW#readme"
+}
